@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6cec090b-3868-43fb-924a-1224e8fc4411" version="1">
+  <Properties>
+    <Name>NopeCopter and Arilasqueto's Ashanti</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Ashanti under Yaa Asantewaa to Sid Meier's Civilization V.</Teaser>
+    <Description>Adds the Ashanti under Yaa Asantewaa to Sid Meier's Civilization V.</Description>
+    <Authors>NopeCopter, Lasqueto</Authors>
+    <SpecialThanks>DarthKyofu, Pouakai</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="09ED9DFDB1188E0652AD9C17E5FABF5F" import="1">Art/Graphics/Abrade/ashanti_uu_alpha_sv.dds</File>
+    <File md5="92F41B7A5F21B1925DE5A2FDB0BD7457" import="1">Art/Graphics/Abrade/MC_Abrade.dds</File>
+    <File md5="9E015DF4159FDB936A42954F2E1A8EB4" import="1">Art/Graphics/Abrade/MC_Abrade.fxsxml</File>
+    <File md5="7D4FCD3F820239BDBF14400DDBA7DF3B" import="1">Art/Graphics/Abrade/MC_Abrade.gr2</File>
+    <File md5="E815B4CB894D5E2EFDD937E23E8ACEAF" import="1">Art/Graphics/Abrade/MC_Abrade.sql</File>
+    <File md5="AD4AE967449858FBD1E2A5673035B621" import="1">Art/Icons/ashanti_uu_alpha_32.dds</File>
+    <File md5="47D15EE737E1DBAAC9DA13B10F934AAD" import="1">Art/Icons/porkie_128.dds</File>
+    <File md5="BD35ED0AB31BB20002F148D35ADB17C7" import="1">Art/Icons/porkie_16.dds</File>
+    <File md5="0ADB5BFB57C3D8ED58BFFEE7EB7CE6B1" import="1">Art/Icons/porkie_24.dds</File>
+    <File md5="BC0BBF69567FB64040FB93C7425C537F" import="1">Art/Icons/porkie_32.dds</File>
+    <File md5="9208BD378E6B3AB4943B8A79C57FF107" import="1">Art/Icons/porkie_45.dds</File>
+    <File md5="49368214AD8062F29EAC5B237873C167" import="1">Art/Icons/porkie_48.dds</File>
+    <File md5="30AB5AD63AE77567B03CBDA661723C02" import="1">Art/Icons/porkie_64.dds</File>
+    <File md5="B2F063E8323B9E2BBB863C0EBDC4A926" import="1">Art/Icons/porkie_80.dds</File>
+    <File md5="11A513F33ADC1321BA9936E2E8D9F2BB" import="1">Art/Icons/yaaAshantiAtlas_128.dds</File>
+    <File md5="47B6F093AE81976AE7339DFC0243F550" import="1">Art/Icons/yaaAshantiAtlas_256.dds</File>
+    <File md5="A7D545664A0D17BA11C96E24A952738D" import="1">Art/Icons/yaaAshantiAtlas_32.dds</File>
+    <File md5="8D452098589F0D45587B37842CB496ED" import="1">Art/Icons/yaaAshantiAtlas_45.dds</File>
+    <File md5="FE0E859A28998A19C3791F7E6A43A4FF" import="1">Art/Icons/yaaAshantiAtlas_64.dds</File>
+    <File md5="C4AB2874BE6B224EC529AF21B91380E6" import="1">Art/Icons/yaaAshantiAtlas_80.dds</File>
+    <File md5="AAB1897731910D094383269CE5AD68FD" import="1">Art/Leaderscene/yaa_ls.xml</File>
+    <File md5="1926DD427830381E7B424CC27422AE71" import="1">Art/Leaderscene/yaa_ls.dds</File>
+    <File md5="C395D90758BD71FDADA0E79AD70BBEC8" import="1">Art/Maps/yaa_ashanti_map.dds</File>
+    <File md5="719DE3E0F828CD88620C28A3CD28C554" import="1">Art/Maps/yaa_ashanti_dom.dds</File>
+    <File md5="6285F134B91089B586F16A8ACBEFE476" import="1">Audio/yaa_ashanti_peace.mp3</File>
+    <File md5="EC10EA7038FEEF0267E2AF7565E35DDD" import="1">Audio/yaa_ashanti_war.mp3</File>
+    <File md5="0E508795E875E79C8138B7A54FDA29F4" import="0">Core/Ashanti_Asantewaa_ArtDefines.sql</File>
+    <File md5="AE16CEAFF285E6F889E0BE1F26C272FE" import="0">Core/Ashanti_Asantewaa_GameDefines.sql</File>
+    <File md5="54F0BB9C343B11CD0FDF04F14DE230B3" import="0">Core/Ashanti_Asantewaa_GameText.xml</File>
+    <File md5="C50BA77C95CF77A008B3F87F6FB20D2D" import="0">Core/Ashanti_Asantewaa_ModSupport.sql</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview/CultureOverview.xml</File>
+    <File md5="34E4A4279606BD95DE3BF7750FC91EEB" import="0">Lua/NC_Ashanti_Functions.lua</File>
+    <File md5="5244308719C5B41D37E35BCE6F354D41" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Ashanti_Asantewaa_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ashanti_Asantewaa_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Ashanti_Asantewaa_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Ashanti_Asantewaa_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/NC_Ashanti_Functions.lua">
+      <Name>Lua Functions</Name>
+      <Description>function deez nuts</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>
