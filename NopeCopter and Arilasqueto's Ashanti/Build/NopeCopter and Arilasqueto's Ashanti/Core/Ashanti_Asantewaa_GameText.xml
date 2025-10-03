@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_NC_ASHANTI_YAA_ASANTEWAA_ADJECTIVE">
+			<Text>Ashanti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_ASHANTI_YAA_ASANTEWAA_DESC">
+			<Text>Ashanti Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NC_ASHANTI_YAA_ASANTEWAA_SHORT_DESC">
+			<Text>Ashanti</Text>
+		</Row>
+		<!--TAL-->
+		<Replace Tag="TXT_KEY_NC_TAL_ASHANTI">
+			<Text>Ashanti</Text>
+		</Replace>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_1">
+			<Text>Occupying most of modern-day Ghana, the Ashanti Empire was one of the most powerful African kingdoms ever to have been in existence. Originating in the 17th century, the Ashanti came to dominate their portion of the Gold Coast, which was fought over by colonial superpowers in years to come. The Ashanti fiercely resisted, largely due to their adoption of firearms and devastating military strategy, with an extremely disciplined army. However, the Ashanti used their massive territorial expansion for economic good as well, given that this opened up trade routes with the European powers, notably the Dutch. After years of war, the British Empire eventually defeated the Ashanti in 1902, though the Ashanti are still recognised as a sub-state of Ghana today.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_2">
+			<Text>With territories from the Gold Coast stretching deep into the African Continent, the Ashanti Empire covered a variety of different climate areas. In the heart of the Ashanti territory lies Lake Bosumtwi, which is considered sacred by the Ashanti. To the east of the traditional lands is one of Ghana's largest rivers, the Volta, which flows out to the Gold Coast after its tributaries connect in northern Ashantiland. The Ashanti homeland was mountainous in parts, mostly covered in forest with the Guinea Savanna in the north and more temperate forest in the south.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_3">
+			<Text>The Ashanti lands, mostly populated by the Akan people, were initially settled by them around the 10th century AD, populating the south of present-day Ghana. The Akan founded a multitude of separate states in this region, and over the years they developed into larger kingdoms. By the time of their first encounter with Europeans, they had established themselves as prominent among the Akan states as a gold-rich nation, the trade of which was to flourish when the colonisation of west Africa began, the Europeans ever-greedy for foreign riches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_4">
+			<Text>Founding the Confederation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_4">
+			<Text>The Ashanti Kingdom was a clan-based system, each clan with a considerable degree of independence, headed by the Amanhene, the overall clan chief. The Amanhene initially had limited power over the Ashanti as a whole; despite being a unifying figure, ready to fight against rivals, most power lay with the clan chiefs. For a while, the Ashanti themselves were vassals of a larger Akan state, the Denkyira. However, in the 17th century, the Ashanti consolidated themselves into a much more centralised state, with the ultimate unifying symbol being the Golden Stool. According to legend, the first king of the confederation, Osei Tutu, called a meeting of all the clan chiefs prior to declaring independence from the Denkyira. During this assembly, the heavens opened up to give way to the Golden Stool - which reportedly drifted into Osei Tutu's lap. True or not, Osei Tutu was almost unanimously declared the new Asantehene, and lead the Ashanti nation to independence after a brief conflict with the Denkyira.[NEWLINE][NEWLINE]The Ashanti quickly expanded; after overcoming the Denkyira, they consolidated power around nearby lands. With an alliance of friendly Akan city-states, Osei Tutu adopted a policy of crushing his nearby foes, with rapid expansion high on the agenda. The declaration of independence of the Ashanti was delivered in 1701, with this rapidly-expanding state very quickly becoming a new player in west Africa. Though the alliance of Akan city-states was very useful in forming the Ashanti state, Tutu wanted this power to be consolidated in the one ruler. Throwing away a lot of the traditional clan-based system, the kingdom brought most of the power to the capital, Kumasi. Newly-conquered lands were either integrated into the empire or became tributaries, ensuring the Ashanti's sphere of influence would continue to grow. Tutu's successor as king, Opoku Ware I, conquered much of the land that is modern-day Ghana, carving out a highly impressive empire in a remarkably short space of time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_5">
+			<Text>Enter the Europeans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_5">
+			<Text>Territorial progress continued throughout the 18th century. However, in the 19th century, the Ashanti advance had mostly slowed, as they turned to a more prosperous pastime - gold, ivory and slave trade. Powers such as the Portuguese and the British were willing to pay vast deals of money for what the Ashanti had to offer, allowing them to profit off their colonial expeditions, unlike most nations, which were simply taken over at first sight. However, many Europeans at home thought of the Ashanti as inferior still. Thomas Bowdich, an English explorer, traveled to the Ashanti nation, and found himself highly impressed with their kingdom. However, even after writing a book on his travels, Europeans still didn't want to acknowledge the Ashanti as at least on-par with European civilisation. Treaties were established with the Ashanti regardless, as the Brits began formal diplomatic relations with them.[NEWLINE][NEWLINE]The Ashanti had always had a tradition of selling slaves; normally prisoners of war, they were quite happy to sell them onto the Europeans for profit where they could. Slavery was justified by the Ashanti belief that slaves would follow their masters into the afterlife. However, slavery within Ashanti society was quite different to what it was for the purposes of Europeans. With several different social classes of slaves, there was a chance that slaves would be treated extremely well at times. Masters would occasionally marry their slaves, for complex social reasons.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_6">
+			<Text>Decline of the Kingdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_6">
+			<Text>Though the Brits had mostly left the Ashanti alone, they finally broke all ties with them in 1895. A British expedition force was sent to Kumasi, with the intention of destroying the central power that was so important to the confederation's success. The Asantehene, Agyeman Prempeh, ordered his people not to resist. Soon after, Prempeh was captured and the Ashanti kingdom had fallen. The following year, the British Empire annexed the territory, forcing the Ashanti leaders into exile in the Seychelles. Named part of the Gold Coast colony, most of Africa was now held by European powers, the Ashanti one of the last lines of resistance. However, even the Ashanti still largely had self-governance, most of the Ashanti were unhappy with being a British colony, and would do what they could to rebel.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_7">
+			<Text>The Ashanti Uprising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_7">
+			<Text>Some of the Ashanti leaders had not yet been exiled to the Seychelles, and mounted a resistance of their own in 1900. Lead by Yaa Asantewaa, the remaining Ashanti military attacked Kumasi Fort, the centre of British power in the Ashanti lands. A war quickly followed, and despite only lasting a matter of months, convinced the British to give further powers to the Ashanti. Designated a protectorate in 1902, the Ashanti had a significant amount of self-rule. Following the war, Yaa Asantewaa was exiled to the Seychelles as well, ridding the Ashanti of many of its able governors. Since 1935, the Ashanti Kingdom have had self-rule, and have been in political union with Ghana since 1957, when their king was restored to power. With the traditional hierarchy still installed, the Ashanti Kingdom is a complex nation, a country inside a country, independent yet not. The Kingdom abides by the Ashanti rule of law to this day, the King the chief lawmaker, yet bound by the Ashanti bureaucracy. These traditions live on in the state today, adding a strong sense of history to this otherwise mysterious part of west Africa.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_1">
+			<Text>Kumasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_2">
+			<Text>Ejisu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_3">
+			<Text>Fomena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_4">
+			<Text>Kokofu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_5">
+			<Text>Mampong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_6">
+			<Text>Akropong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_7">
+			<Text>Bekwai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_8">
+			<Text>Agogo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_9">
+			<Text>Pekyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_10">
+			<Text>Agona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_11">
+			<Text>Antoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_12">
+			<Text>Aboabogya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_13">
+			<Text>Wawase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_14">
+			<Text>Ofinso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_15">
+			<Text>Nkwale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_16">
+			<Text>Nyinahin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_17">
+			<Text>Mansu Nkwante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_18">
+			<Text>Banso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_19">
+			<Text>Obogu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_20">
+			<Text>Dompoasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_21">
+			<Text>Kaase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_22">
+			<Text>Bompata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_23">
+			<Text>Akrokerri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_24">
+			<Text>Kumawu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_25">
+			<Text>Bekyem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_26">
+			<Text>Tepa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_27">
+			<Text>Asago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_28">
+			<Text>Duayaw Nkwanta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_29">
+			<Text>Tokyimentia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_30">
+			<Text>Wenkyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_31">
+			<Text>Ejure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_32">
+			<Text>Domase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_33">
+			<Text>Edweso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_34">
+			<Text>Afebubu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_35">
+			<Text>Boankra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_36">
+			<Text>Odumase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_37">
+			<Text>Kwaso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_38">
+			<Text>Kokobin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_39">
+			<Text>Besease</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_NC_ASHANTI_YAA_ASANTEWAA_40">
+			<Text>Biemso</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_0">
+			<Text>Kwadwo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_1">
+			<Text>Kwabena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_2">
+			<Text>Opoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_3">
+			<Text>Kwame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_4">
+			<Text>Kofi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_5">
+			<Text>Kwaku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_6">
+			<Text>Afrifa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_7">
+			<Text>Ghanza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_8">
+			<Text>Boadu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NC_ASHANTI_YAA_ASANTEWAA_9">
+			<Text>Kudjoe</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA">
+			<Text>Yaa Asantewaa</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_NAME">
+			<Text>Yaa Asantewaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_1">
+			<Text>Yaa Asantewaa was the Queen Mother of Ejisu in the Ashanti Empire, now part of modern-day Ghana. In 1900, she led the Ashanti forces in the War of the Golden Stool against the British Empire. The only female Asante ruler known to have commanded a national army, she assumed the mantle of responsibility to preserve the Asante kingdom after the king had been exiled and no male leader would step forward.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_2">
+			<Text>Yaa Asantewaa was born in 1840 in Besease, the daughter of Kwaku Ampoma and Ata Po. Her brother, Afrane Panin, became the chief of Edweso, a nearby community. After a childhood without incident, she cultivated crops on the land around Boankra. She entered a polygamous marriage with a man from Kumasi, with whom she had a daughter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_3">
+			<Text>Prelude to Revolt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_3">
+			<Text>Yaa Asantewaa's older brother, Nana Akwasi Afrane Okpase, was in a powerful position in the empire and selected Asantewaa as the Queen Mother of the district of Ejisu. This was a prestigious position, as she was responsible for protecting the golden stool, advising the King of Ashanti, and choosing candidates for the next king. During her brother's reign, Yaa Asantewaa saw the Ashanti Confederacy go through a series of events that threatened its future, including a civil war from 1883 to 1888. When her brother died in 1894, Yaa Asantewaa used her right as Queen Mother to nominate her own grandson as Ejisuhene. When the British exiled him to the Seychelles in 1896, along with the King of Asante Prempeh I and other members of the Asante government, Yaa Asantewaa became regent of the Ejisu-Juaben district. After the exile of Prempeh I, the British governor-general of the Gold Coast, Frederick Hodgson, demanded the Golden Stool, the symbol of the Asante nation. This request led to a secret meeting of the remaining members of the Asante government at Kumasi to discuss how to secure the return of their king. There was a disagreement among those present on how to go about this, with many refusing to consider any sort of military action. Yaa Asantewaa, who was present at this meeting, stood and addressed the members of the council with a scathing speech reprimanding them for their cowardice. To dramatize her determination to go to war, Yaa Asantewaa seized a gun and fired a shot in front of the men. In the aftermath of this, Yaa Asantewaa was chosen by a number of regional Asante kings to be the war leader of the Asante fighting force. This is the first and only example of a woman being given that role in Asante history. The Ashanti-British War of the Golden Stool had begun.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_4">
+			<Text>Opening Victories</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_4">
+			<Text>As Hodgson's deputy Captain Cecil Armitage searched for the stool in a nearby brush, his force was surrounded and ambushed, but a sudden rainstorm allowed the survivors to retreat to the British offices in Kumasi. The offices were then fortified into a small stockade no more than 50 yards square defended by a few hundred troops and four Maxim guns. The British detained several high ranking leaders in the fort. The Ashanti, aware that they were unprepared for storming the fort, settled into a long siege, only making one unsuccessful assault on the fort. Instead, the Ashanti continued to snipe at the defenders, cut the telegraph wires, blockade food supplies, and attack relief columns. Most critically, the Ashanti rebels blockaded all roads leading to the town with 21 log barricades six feet high with loopholes to fire through, hundreds of yards long and so solid they would be impervious to artillery fire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_5">
+			<Text>Changing Tides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_5">
+			<Text>As the fleeing Hodgson arrived at the coast, narrowly managing to escape the siege with a small task force, a rescue force of 1,000 men assembled from various British units and police forces stationed across West Africa and under the command of Major James Willcocks had set out from Accra. On the march Willcocks's men had been repulsed from several well-defended forts belonging to groups allied with the Ashanti – most notably the stockade at Kokofu, where they had suffered heavy casualties. During the march Willcocks was faced with constant trials of skirmishing with an enemy in his own element while maintaining his supply route in the face of an opposing force utilizing unconventional warfare. In early July, his force arrived at Bekwai and prepared for the final assault on Kumasi, which began on the morning of 14 July 1900. Using a force led by Yoruba warriors from Nigeria serving in the Frontier Force, Willcocks drove in four heavily guarded stockades, finally relieving the fort on the evening of 15 July, when the inhabitants were just two days from surrender. The fighting continued after the fort at Kumasi was retaken, but especially once the British discovered how to destroy the Ashanti barricades, the war was all but over - Yaa Asantewaa herself evaded capture for a few more months, but eventually she and 15 of her closest advisors were either captured or surrendered themselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_HEADING_6">
+			<Text>Death and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_TEXT_6">
+			<Text>The rebellion represented the final war in the series of Anglo-Ashanti wars that spanned the 19th century. In this confrontation, more than 2,000 Ashanti warriors lost their lives while approximately 1,000 British troops were also killed, making it the deadliest of the Anglo-Ashanti conflicts. On January 1, 1902, the British officially annexed the territory that the Ashanti Empire had been controlling for almost a century, transforming the Ashanti into a protectorate of the British crown. Despite the British defeating the Ashanti army, however, the golden stool was never turned over. A fake golden stool was delivered to the British governor while the nation's symbol of freedom, the ancient golden stool was kept safely hidden until the British agreed not to interfere. However, while the golden stool was protected and the Ashanti were left to mostly govern themselves, the British arrested numerous chiefs, including Yaa Asantewaa, and exiled them to the Seychelles for 25 years. In that 25-year period many of them died, including Yaa Asantewaa herself in 1921. Three years after Yaa Asantewaa's death, on December 17, 1924, King Prempeh I and the other remaining members of the exiled Asante court were allowed to return to Asante. King Prempeh I made sure that the remains of Nana Asantewaa and the other exiled Ashantis were returned for a proper royal burial.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_LIVED">
+			<Text>1840 - 1921 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_SUBTITLE">
+			<Text>Leader of the Ashanti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_NC_ASHANTI_YAA_ASANTEWAA_TITLES_1">
+			<Text>Ohemaa</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_NC_ASHANTI_YAA_ASANTEWAA_TEXT">
+			<Text>Your forces stand at the ready, Nana Yaa Asantewaa, queen-mother of Ejisu and war leader of the Ashanti! In a time of great turmoil and hopelessness for your people, when your own son had been sent into exile along with your king, it was you who rallied the Ashanti and convinced them to fight when nobody else could muster the courage to stand up to the British demands for the sacred Golden Stool. Through your charisma, dedication to the cause, and employment of ingenious new tactics such as the construction of large barricades in key positions, you managed to regain control of a large portion of former Ashanti lands and even besiege the key British fort at Kumasi. Even after a relief column barely managed to foil your siege efforts, you and your soldiers fought valiantly for many months  before you were eventually forced to turn yourself in to protect your loved ones from further harm. Though you were exiled to the Seychelles to die for your resistance efforts, your ultimate goal - the protection of the sacred Golden Stool - was still achieved.[NEWLINE][NEWLINE]Mighty queen-mother, you have done well, but your efforts are needed once again. Your people are beset by enemies, and they need someone like you to lead them out of despair. Will you be able to defend the Golden Stool once more? Will you perhaps even go further, and create an empire to rival the glory days of the Ashanti? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_FIRSTGREETING_1">
+			<Text>Hm? Who are you? I am Nana Yaa Asantewaa, and these are the lands of the proud Ashanti people. You'd best remember that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_DEFEATED_1">
+			<Text>You may have destroyed our armies, but the spirit of my people will live on. The Ashanti will rise again!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_ATTACKED_HOSTILE_1">
+			<Text>If you want to wage your senseless wars and destroy our lands, then fine! I will show you what a terrible choice you've made.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_DEC_FRIENDSHIP_1">
+			<Text>Dangers lurk around every corner these days. Would you be willing to show the world we stand together with a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_DENOUNCE_1">
+			<Text>Your senseless aggression is a threat to the stability of this land, and it's time the world knew of your sins.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_DENOUNCE_FRIEND_1">
+			<Text>I took you for an ally, someone trustworthy. How wrong I was.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_DOW_GENERIC_1">
+			<Text>I won't stand by and wait until you turn your blades on me. You are a threat, and you must be destroyed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>The lands your settlers are treading on is ours, and we will not let you take it. Remove them at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_GREETING_HOSTILE_HELLO_1">
+			<Text>Why are you here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Do you have business with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_GREETING_POLITE_HELLO_1">
+			<Text>Greetings. It's a pleasure to see you here.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Are you trying to intimidate me with those soldiers of yours? If you want a fight, I won't back down.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe that an Open Borders agreement would allow both of us to defend our lands more efficiently. Wouldn't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Your endless greed does not mean you can encroach on our lands as if they're your own. Keep your land purchases away from our borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_REQUEST_1">
+			<Text>Your support would be much appreciated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>How dare you? Don't expect to get away with saying things like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_TOO_SOON_FOR_DOF_1">
+			<Text>Not yet. Your allegiances are still too much of a mystery to me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_TOO_SOON_NO_PEACE_1">
+			<Text>Not while the threat you pose still remains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are eating your fufu and playing the seperewa. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_NC_ASHANTI_YAA_ASANTEWAA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>I'm glad to see that your people are eating our fufu and playing the seperewa. They have wonderful taste.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_NC_ASHANTI_YAA_ASANTEWAA_SHORT">
+			<Text>Drinking the Gods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_NC_ASHANTI_YAA_ASANTEWAA">
+			<Text>Begin with the Golden Stool, a special building with a Great Work of Art slot and an Artist Specialist slot which can be moved by building it in other Cities. Great Works generate [ICON_GREAT_PEOPLE] Great General Points while at war.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_NC_EPIE">
+			<Text>Epie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_EPIE_HELP">
+			<Text>Replaces Arsenal. [ICON_GREAT_PEOPLE] Great Generals Fortified in the City extend their [ICON_STRENGTH] Combat Strength bonus to all tiles in the City and passively damage enemy Units on Roads. Units killed in this City generate [ICON_CULTURE] Culture the further they were killed from the Golden Stool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_EPIE_STRATEGY">
+			<Text>The Epie is key to fighting any defensive war, allowing for a City to become a veritable fortress - and an effective source of [ICON_CULTURE] Culture, too. The main appeal of the Epie is the fact that enemy units killed within the borders of its city will generate [ICON_CULTURE] Culture based on how far they died from the Golden Stool - so keeping your precious Golden Stool as far away from the front lines is paramount, and forcing your opponent onto the back foot is very much worthwhile. If you can get a Great General fortified in a city with an Epie, though, that's even better. This will extend the Great General's [ICON_STRENGTH] Combat Strength bonus across the entire City, and also deal damage to any enemy Units positioned on a Road or Railroad, as an added bonus!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NC_EPIE_TEXT">
+			<Text>One of the key tactics Yaa Asantewaa and her forces developed as a part of the rebellion was the construction of epie, or large barricades situated along key roads in Kumasi and surrounding towns. These epie were made of log stockades surrounding thick layers of dirt and earth, up to 6 feet high and hundreds of yards long, so thick that they were impervious to British artillery fire. Loopholes were present in the stockades to allow Ashanti troops to fire through, and behind the stockades were supply stores to keep the troops fed and armed. Each stockade was held by a sahene (war chief) and his troops, and those who held off the British successfully were rewarded by Yaa Asantewaa herself. These stockades proved to be massively frustrating for the British, leading to several defeats and minimal Ashanti casualties. Eventually, however, the British figured out how to break through the epie with the right combination of range and ammunition, leading to the abandonment of the strategy and complete shift in the tide of the war.</Text>
+		</Row>
+		<!--UNIQUE 2-->>
+		<Row Tag="TXT_KEY_UNIT_NC_GYASE">
+			<Text>Gyase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_GYASE_HELP">
+			<Text>Replaces Rifleman. Constructed faster and with more starting [ICON_MOVES] Movement per Great Work present in the city it's trained in. Increased bonus when near a [ICON_GREAT_PEOPLE] Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_GYASE_STRATEGY">
+			<Text>The Gyase are an incredibly valuable military tool for defending your empire and its cultural heritage. Beginning with both additional experience and additional movement on their first turn for each Great Work in the city they're constructed in, you can quickly get an army of Gyase online and to the front lines in the midst of battle if you train them in a city with a lot of filled Great Work slots. What's more, since the Gyase gain additional bonuses from Great Generals, it's easy to make them even stronger to hold key points or form especially deadly formations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NC_GYASE_TEXT">
+			<Text>The Gyase were the military division which served as the bodyguards of the king and, presumably, Yaa Asantewaa as well. During the War of the Golden Stool, Yaa Asantewaa was known to have commanded her own squadron of several thousand soldiers, including around two hundred elite troops hand-picked from her bodyguard. These soldiers became famous as the most effective shock troops the Ashanti forces had to offer, renowned for their valor and skill.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_GOLDEN_STOOL">
+			<Text>Golden Stool</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_GOLDEN_STOOL_HELP">
+			<Text>Provides 1 Great Work of Art slot and 1 Artist Specialist slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_GOLDEN_STOOL_STRATEGY">
+			<Text>The Golden Stool is a special Building that begins in the Ashanti [ICON_CAPITAL] Capital and can be moved around by building it in your other Cities. It provides an early head start on [ICON_CULTURE] Culture and Tourism thanks to its free Artist Specialist slot and Great Work of Art slot, but its most powerful trait is the ability to generate large amounts of [ICON_CULTURE] Culture from killing enemy units when paired with the Epie. Keep the Golden Stool away from the front lines to get the most out of this ability, but also to keep it out of enemy hands - the Golden Stool can be captured by other players if they take the City that houses it!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_GOLDEN_STOOL_TEXT">
+			<Text>The Golden Stool is the royal and divine throne of kings of the Ashanti people and the ultimate symbol of power in Ashanti. According to legend, Okomfo Anokye, High Priest and one of the two chief founders of the Asante Confederacy, caused the stool to descend from the sky and land on the lap of the first Asante king, Osei Tutu. Stools are traditionally symbolic of a chieftain's leadership, but the Golden Stool is believed to house the spirit of the Ashanti nation - living, dead and yet to be born. The Golden Stool is the royal throne and must never touch the ground; instead it is placed on a blanket. Only the Asantehene himself is allowed to handle it. During solemn occasions, the Golden Stool is placed on the king's left on a throne of its own. Many wars have broken out over the ownership of the royal throne - most famously, pn 1900, Sir Frederick Hodgson, the Governor of the Gold Coast, demanded to be allowed to sit on the Golden Stool, and ordered that a search for it be conducted. This provoked an armed rebellion known as the War of the Golden Stool, which resulted in the annexation of Ashanti to the British Empire, but preserved the sanctity of the Golden Stool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_GOLDEN_STOOL_BUILD">
+			<Text>Dummy: Golden Stool Buildable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_GOLDEN_STOOL_BUILD_HELP">
+			<Text>Allows the Golden Stool to be moved to this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_ASHANTI_GYASE_PRODUCTION">
+			<Text>Dummy: Gyase Bonus Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_ASHANTI_GYASE_PRODUCTION_HELP">
+			<Text>+5% Production towards Gyase per Great Work in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_ASHANTI_GENERAL_GARRISON">
+			<Text>Dummy: General Garrison Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_NC_ASHANTI_GENERAL_GARRISON_HELP">
+			<Text>Notes the presence of a Great General garrisoned in this city.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GYASE">
+			<Text>Gyase Promotion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GYASE_HELP">
+			<Text>Marks a Gyase or a Unit promoted from a Gyase.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GYASE_GENERAL">
+			<Text>Additional Great General Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GYASE_GENERAL_HELP">
+			<Text>Additional +10% Combat Strength bonus when near a Great General.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GENERAL_IN_CITY">
+			<Text>Great General Garrison</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GENERAL_IN_CITY_HELP">
+			<Text>Marks a Great General garrisoned in a city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GENERAL_EXTENDED">
+			<Text>Long-Range Great General Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NC_ASHANTI_GENERAL_EXTENDED_HELP">
+			<Text>Great Generals garrisoned in a CIty with a Gyase extend their effect to all tiles within the city.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
